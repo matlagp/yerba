@@ -5,3 +5,5 @@ authors = ["Piotr Matląg <piotr.matlag@protonmail.com>"]
 edition = "2018"
 
 [dependencies]
+yaml-rust = "0.4"
+simple-error = "0.2"
